@@ -1,0 +1,57 @@
+01/03/2024 08:42:30 PM INFO ---------------Test Starting------------
+01/03/2024 08:42:32 PM DEBUG ************Test is passed***********
+01/03/2024 08:42:43 PM ERROR ************Test is failed***********
+01/03/2024 08:42:44 PM INFO ***************   Test_searchCustomerbyEmail__008 Starting     ***************
+01/03/2024 08:42:50 PM INFO -----------   Login Successful    ----------------
+01/03/2024 08:42:54 PM INFO -----------   On the Search page  ----------------
+01/03/2024 08:42:54 PM INFO -----------   Searching customer by Name    ----------------
+01/03/2024 08:42:54 PM INFO -----------Checking customer details on the search table----------------
+01/03/2024 08:42:56 PM INFO ***************  Test_searchCustomerbyEmail__008 Passed  *********** 
+01/03/2024 08:42:56 PM INFO ***************  Test_searchCustomerbyEmail__008 Finished  *********** 
+01/03/2024 08:42:58 PM INFO ***************   Test_searchCustomerbyName__007 Starting     ***************
+01/03/2024 08:43:02 PM INFO -----------   Login Successful    ----------------
+01/03/2024 08:43:07 PM INFO -----------   On the Search page  ----------------
+01/03/2024 08:43:07 PM INFO -----------   Searching customer by Name    ----------------
+01/03/2024 08:43:08 PM INFO -----------Checking customer details on the search table----------------
+01/03/2024 08:43:10 PM INFO ***************  Test_searchCustomerbyName__007 Passed  *********** 
+01/03/2024 08:43:10 PM INFO ***************  Test_searchCustomerbyName__007 Finished  *********** 
+01/03/2024 08:50:10 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 08:50:19 PM INFO -----------Login Successful----------------
+01/03/2024 08:50:25 PM INFO -----------Adding Customer----------------
+01/03/2024 08:50:32 PM INFO -----------Saving Customer data----------------
+01/03/2024 08:50:34 PM INFO -----------Test data saved in Excel----------------
+01/03/2024 08:50:34 PM INFO -----------Saving Customer data Passed----------------
+01/03/2024 08:50:34 PM INFO -----------Closing Test----------------
+01/03/2024 08:50:47 PM ERROR ************Test is failed***********
+01/03/2024 09:05:54 PM INFO ---------------Test Starting------------
+01/03/2024 09:05:56 PM DEBUG ************Test is passed***********
+01/03/2024 09:06:07 PM ERROR ************Test is failed***********
+01/03/2024 09:08:18 PM INFO ---------------Test Starting------------
+01/03/2024 09:08:19 PM DEBUG ************Test is passed***********
+01/03/2024 09:08:33 PM ERROR ************Test is failed***********
+01/03/2024 09:10:28 PM INFO ---------------Test Starting------------
+01/03/2024 09:10:30 PM DEBUG ************Test is passed***********
+01/03/2024 09:10:41 PM ERROR ************Test is failed***********
+01/03/2024 09:41:25 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 09:41:34 PM INFO -----------Login Successful----------------
+01/03/2024 09:41:43 PM INFO -----------Adding Customer----------------
+01/03/2024 09:44:34 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 09:44:43 PM INFO -----------Login Successful----------------
+01/03/2024 09:44:51 PM INFO -----------Adding Customer----------------
+01/03/2024 09:49:36 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 09:49:41 PM INFO -----------Login Successful----------------
+01/03/2024 09:49:48 PM INFO -----------Adding Customer----------------
+01/03/2024 09:49:55 PM INFO -----------Saving Customer data----------------
+01/03/2024 09:49:57 PM INFO -----------Test data saved in Excel----------------
+01/03/2024 09:49:57 PM INFO -----------Saving Customer data Passed----------------
+01/03/2024 09:49:57 PM INFO -----------Closing Test----------------
+01/03/2024 09:51:26 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 09:51:31 PM INFO -----------Login Successful----------------
+01/03/2024 09:51:38 PM INFO -----------Adding Customer----------------
+01/03/2024 09:54:07 PM INFO ---------TestCase addCustomer----------------
+01/03/2024 09:54:12 PM INFO -----------Login Successful----------------
+01/03/2024 09:54:18 PM INFO -----------Adding Customer----------------
+01/03/2024 09:54:26 PM INFO -----------Saving Customer data----------------
+01/03/2024 09:54:28 PM INFO -----------Test data saved in Excel----------------
+01/03/2024 09:54:28 PM INFO -----------Saving Customer data Passed----------------
+01/03/2024 09:54:29 PM INFO -----------Closing Test----------------
