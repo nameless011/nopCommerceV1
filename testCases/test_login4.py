@@ -48,7 +48,7 @@ class Test_001_Login():
         page_tittle = self.driver.title
         self.lp.clickLogout()
         time.sleep(2)
-        if page_tittle == "Dashboard , nopCommerce administration": #purposefully given wrong
+        if page_tittle == "Dashboard / nopCommerce administration": #purposefully given wrong
             self.logger1.debug("************Test is passed***********")
             assert True                                             #replaced / with,
             self.driver.close()
